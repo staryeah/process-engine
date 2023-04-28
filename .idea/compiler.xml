@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="process-engine-demo-springboot" />
+        <module name="process-engine-core" />
+        <module name="process-engine-wrapper" />
+        <module name="process-engine-demo-xml" />
+        <module name="process-engine-demo-common" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="process-engine-core" target="1.8" />
+      <module name="process-engine-demo" target="1.8" />
+      <module name="process-engine-demo-common" target="1.8" />
+      <module name="process-engine-demo-springboot" target="1.8" />
+      <module name="process-engine-demo-xml" target="1.8" />
+      <module name="process-engine-wrapper" target="1.8" />
+      <module name="yuanyaotech-process-engine" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="process-engine-core" options="" />
+      <module name="process-engine-demo-common" options="" />
+      <module name="process-engine-demo-springboot" options="" />
+      <module name="process-engine-demo-xml" options="" />
+    </option>
+  </component>
+</project>

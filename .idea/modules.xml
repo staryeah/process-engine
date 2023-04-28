@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/process-engine-core/process-engine-core.iml" filepath="$PROJECT_DIR$/process-engine-core/process-engine-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/process-engine-demo/process-engine-demo-common/process-engine-demo-common.iml" filepath="$PROJECT_DIR$/process-engine-demo/process-engine-demo-common/process-engine-demo-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/process-engine-demo/process-engine-demo-springboot/process-engine-demo-springboot.iml" filepath="$PROJECT_DIR$/process-engine-demo/process-engine-demo-springboot/process-engine-demo-springboot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/process-engine-demo/process-engine-demo-xml/process-engine-demo-xml.iml" filepath="$PROJECT_DIR$/process-engine-demo/process-engine-demo-xml/process-engine-demo-xml.iml" />
+      <module fileurl="file://$PROJECT_DIR$/process-engine-wrapper/process-engine-wrapper.iml" filepath="$PROJECT_DIR$/process-engine-wrapper/process-engine-wrapper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yuanyaotech-process-engine.iml" filepath="$PROJECT_DIR$/yuanyaotech-process-engine.iml" />
+    </modules>
+  </component>
+</project>
